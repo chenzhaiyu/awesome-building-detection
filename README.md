@@ -23,3 +23,24 @@ Paper List for Building Detection from Remote Sensing Images
 | CNNs Fusion for Building Detection in Aerial Images for the Building Detection Challenge | Remi Delassus et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Delassus_CNNs_Fusion_for_CVPR_2018_paper.pdf)] |
 | Building Extraction From Satellite Images Using Mask R-CNN With Building Boundary Regularization | Kang Zhao et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Zhao_Building_Extraction_From_CVPR_2018_paper.pdf)] |
 
+### Footprint Regression
+| Title | Authors | Venue | Year | Resources |
+| ----- | ------- | ----- | ---- | --------- |
+| Rotated Rectangles for Symbolized Building Footprint Extraction | Matt Dickenson et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Dickenson_Rotated_Rectangles_for_CVPR_2018_paper.pdf)] |
+
+### Deep Structured Active Contours
+| Title | Authors | Venue | Year | Resources |
+| ----- | ------- | ----- | ---- | --------- |
+| Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Marcos_Learning_Deep_Structured_CVPR_2018_paper.pdf)]
+| Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2019 | [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_DARNet_Deep_Active_Ray_Network_for_Building_Segmentation_CVPR_2019_paper.pdf)]
+| End-to-End Deep Convolutional Active Contours for Image Segmentation | Ali Hatamizadeh et al. | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1909.13359.pdf)] |
+
+### Interactive Annotation
+| Title | Authors | Venue | Year | Resources |
+| ----- | ------- | ----- | ---- | --------- |
+| Annotating Object Instances with a Polygon-RNN | Lluís Castrejón et al. | CVPR | 2017 | [[PDF](https://arxiv.org/pdf/1704.05548.pdf)] |
+| Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++ | David Acuna et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf)] |
+| Fast Interactive Object Annotation With Curve-GCN | Huan Ling et al. | CVPR | 2019 | [[PDF](https://arxiv.org/pdf/1903.06874.pdf)]
+
+
+
