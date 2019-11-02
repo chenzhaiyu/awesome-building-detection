@@ -31,8 +31,8 @@ Paper List for Building Detection from Remote Sensing Images
 ### Deep Structured Active Contours
 | Title | Authors | Venue | Year | Resources |
 | ----- | ------- | ----- | ---- | --------- |
-| Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Marcos_Learning_Deep_Structured_CVPR_2018_paper.pdf)]
-| Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2019 | [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_DARNet_Deep_Active_Ray_Network_for_Building_Segmentation_CVPR_2019_paper.pdf)]
+| Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Marcos_Learning_Deep_Structured_CVPR_2018_paper.pdf)] |
+| DARNet: Deep Active Ray Network for Building Segmentation | Dominic Cheng et al. | CVPR | 2019 | [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_DARNet_Deep_Active_Ray_Network_for_Building_Segmentation_CVPR_2019_paper.pdf)] |
 | End-to-End Deep Convolutional Active Contours for Image Segmentation | Ali Hatamizadeh et al. | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1909.13359.pdf)] |
 
 ### Interactive Annotation
