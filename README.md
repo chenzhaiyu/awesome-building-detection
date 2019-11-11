@@ -1,9 +1,12 @@
-# Building-Detection-Papers
+# Awesome-Building-Detection
 Paper List for Building Detection from Remote Sensing Images
 
 ## Workshops
 * [DeepGlobe - CVPR 2018](http://deepglobe.org)
 * [EarthVision - CVPR 2019](https://www.grss-ieee.org/earthvision2019/)
+
+## Challenges
+* [Mapping Challenge by crowdAI](https://www.crowdai.org/challenges/mapping-challenge)
 
 ## Papers
 ### Reviews 
