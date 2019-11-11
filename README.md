@@ -1,5 +1,5 @@
 # Awesome-Building-Detection
-Paper List for Building Detection from Remote Sensing Images
+Resources for Building Detection from Remote Sensing Images
 
 ## Workshops
 * [DeepGlobe - CVPR 2018](http://deepglobe.org)
