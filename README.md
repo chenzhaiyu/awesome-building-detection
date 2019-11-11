@@ -38,9 +38,13 @@ Paper List for Building Detection from Remote Sensing Images
 ### Interactive Annotation
 | Title | Authors | Venue | Year | Resources |
 | ----- | ------- | ----- | ---- | --------- |
-| Annotating Object Instances with a Polygon-RNN | Lluís Castrejón et al. | CVPR | 2017 | [[PDF](https://arxiv.org/pdf/1704.05548.pdf)] |
+| Annotating Object Instances with a Polygon-RNN | Agata Mosinska et al. | CVPR | 2017 | [[PDF](https://arxiv.org/pdf/1704.05548.pdf)] |
 | Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++ | David Acuna et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf)] |
-| Fast Interactive Object Annotation With Curve-GCN | Huan Ling et al. | CVPR | 2019 | [[PDF](https://arxiv.org/pdf/1903.06874.pdf)]
+| Fast Interactive Object Annotation With Curve-GCN | Huan Ling et al. | CVPR | 2019 | [[PDF](https://arxiv.org/pdf/1903.06874.pdf)] |
 
+### Topology-Aware
+| Title | Authors | Venue | Year | Resources |
+| ----- | ------- | ----- | ---- | --------- |
+| Beyond the Pixel-Wise Loss for Topology-Aware Delineation | Lluís Castrejón et al. | CVPR | 2018 | [[PDF](https://arxiv.org/pdf/1712.02190.pdf)] |
 
 
