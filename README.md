@@ -25,7 +25,7 @@ Resources for Building Detection from Remote Sensing Images
 | Semantic Segmentation Based Building Extraction Method Using Multi-Source GIS Map Datasets and Satellite Imagery | Weijia Li et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Li_Semantic_Segmentation_Based_CVPR_2018_paper.pdf)] |
 | CNNs Fusion for Building Detection in Aerial Images for the Building Detection Challenge | Remi Delassus et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Delassus_CNNs_Fusion_for_CVPR_2018_paper.pdf)] |
 | Building Extraction From Satellite Images Using Mask R-CNN With Building Boundary Regularization | Kang Zhao et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Zhao_Building_Extraction_From_CVPR_2018_paper.pdf)] |
-| Multi-Task Learning for Segmentation of Building Footprints with Deep Neural Networks | Benjamin Bischke el al. | ICIP | 2019 | [[PDF](https://arxiv.org/pdf/1709.05932.pdf) |
+| Multi-Task Learning for Segmentation of Building Footprints with Deep Neural Networks | Benjamin Bischke el al. | ICIP | 2019 | [[PDF](https://arxiv.org/pdf/1709.05932.pdf)] |
 
 ### Footprint Regression
 | Title | Authors | Venue | Year | Resources |
