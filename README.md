@@ -45,7 +45,7 @@ Resources for Building Detection from Remote Sensing Images
 | Annotating Object Instances with a Polygon-RNN | Agata Mosinska et al. | CVPR | 2017 | [[PDF](https://arxiv.org/pdf/1704.05548.pdf)] |
 | Efficient Interactive Annotation of Segmentation Datasets with Polygon-RNN++ | David Acuna et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf)] |
 | Fast Interactive Object Annotation With Curve-GCN | Huan Ling et al. | CVPR | 2019 | [[PDF](https://arxiv.org/pdf/1903.06874.pdf)] |
-| Topological Map Extraction From Overhead Images | Zuoyue Li et al. | ICCV | 2019 | [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf) |
+| Topological Map Extraction From Overhead Images | Zuoyue Li et al. | ICCV | 2019 | [[PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Topological_Map_Extraction_From_Overhead_Images_ICCV_2019_paper.pdf)] |
 
 ### Topology-Aware Loss
 | Title | Authors | Venue | Year | Resources |
