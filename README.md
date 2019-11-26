@@ -32,7 +32,7 @@ Resources for Building Detection from Remote Sensing Images
 | ----- | ------- | ----- | ---- | --------- |
 | Rotated Rectangles for Symbolized Building Footprint Extraction | Matt Dickenson et al. | CVPR Workshop | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w4/Dickenson_Rotated_Rectangles_for_CVPR_2018_paper.pdf)] |
 
-### Deep Structured Active Contours
+### Active Contour Based
 | Title | Authors | Venue | Year | Resources |
 | ----- | ------- | ----- | ---- | --------- |
 | Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Marcos_Learning_Deep_Structured_CVPR_2018_paper.pdf)] |
