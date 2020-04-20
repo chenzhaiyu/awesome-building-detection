@@ -38,6 +38,7 @@ Resources for Building Detection from Remote Sensing Images
 | Learning deep structured active contours end-to-end | Diego Marcos et al. | CVPR | 2018 | [[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Marcos_Learning_Deep_Structured_CVPR_2018_paper.pdf)] |
 | DARNet: Deep Active Ray Network for Building Segmentation | Dominic Cheng et al. | CVPR | 2019 | [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_DARNet_Deep_Active_Ray_Network_for_Building_Segmentation_CVPR_2019_paper.pdf)] |
 | End-to-End Deep Convolutional Active Contours for Image Segmentation | Ali Hatamizadeh et al. | arXiv | 2019 | [[PDF](https://arxiv.org/pdf/1909.13359.pdf)] |
+| Deep Snake for Real-Time Instance Segmentation | Sida Peng et al. | CVPR | 2020 | [[PDF](https://arxiv.org/pdf/2001.01629.pdf)] |
 
 ### Polygon Based
 | Title | Authors | Venue | Year | Resources |
